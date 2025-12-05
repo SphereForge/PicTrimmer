@@ -21,7 +21,8 @@ Using a multi-stage image processing pipeline, PicTrimmer applies grayscale conv
 *   **Flexible Fine-Tuning Controls:** Adjust edge sensitivity and smoothing with a **Global Setting** for consistent batches or **Individual Settings** for unique images with tricky decorative borders.
 *   **Accessibility Focused:** Full support for screen readers with clear descriptions for all controls, ensuring a great experience for visually impaired users.
 *   **Complete Privacy:** Your images never leave your device.
-*   **Custom Filename Options: Set your own prefix or suffix for saved files. (New)**
+*   **Custom Filename Options:** Set your own prefix or suffix for saved files.
+*   **Jump navigation:** Instantly navigate large lists by typing the image number (e.g., 67) to jump directly to that specific photo.
 
 ## User-Friendly Ads & Premium Features
 * PicTrimmer is free to use and designed to be non-intrusive. The ad experience is simple:
