@@ -1,5 +1,5 @@
 # Privacy Policy for PicTrimmer
-**Last Updated: December 2, 2025**
+**Last Updated: 28 February 2026**
 
 Thank you for using PicTrimmer. Your privacy is important. This privacy policy explains how information is handled in my application, PicTrimmer.
 
@@ -8,7 +8,7 @@ Thank you for using PicTrimmer. Your privacy is important. This privacy policy e
 *   **Pro Upgrade (In-App Purchase):** Users can choose to make a one-time in-app purchase to upgrade to the "Pro" version. This upgrade removes all advertising from the App.
 
 ### 2. Core App Functionality (Local Processing)
-PicTrimmer is designed to function entirely on your device. The application does not collect, store, or transmit any of your personal photos or images. All image processing performed by the App happens locally on your phone. Your images are never uploaded to any server or seen by me.
+PicTrimmer is designed to function entirely on your device. The application does not collect, store, or transmit any of your personal photos or images. All image processing performed by the App (including AI features) happens locally on your phone. Your images are never uploaded to any server or seen by me.
 
 ### 3. Data Handling (Advertising)
 To support the App and keep it free, I integrate third-party services into the free version of PicTrimmer.
