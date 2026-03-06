@@ -14,18 +14,33 @@ Thank you for checking out the first official release of PicTrimmer! This app wa
 
 Using a multi-stage image processing pipeline, PicTrimmer applies grayscale conversion, contrast enhancement, and gradient-based edge detection to identify your image's subject. An intelligent scoring system then isolates the primary content to ensure a perfect crop. This entire process happens 100% on your device, ensuring your photos remain completely private.
 
+The Offline AI engine uses Inspyrenet to intelligently isolate subjects from backgrounds.
+
 ## Key Features
 
-*   **Accurate Border Detection:** Reliably finds and removes empty space from all sides of your image.
-*   **Powerful Batch Processing:** Save time by processing entire folders at once, containing hundreds or even thousands of images!
-*   **Flexible Fine-Tuning Controls:** Adjust edge sensitivity and smoothing with a **Global Setting** for consistent batches or **Individual Settings** for unique images with tricky decorative borders.
-*   **Accessibility Focused:** Full support for screen readers with clear descriptions for all controls, ensuring a great experience for visually impaired users.
-*   **Complete Privacy:** Your images never leave your device.
-*   **Custom Filename Options:** Set your own prefix or suffix for saved files.
-*   **Jump navigation:** Instantly navigate large lists by typing the image number (e.g., 67) to jump directly to that specific photo.
+* **AI SMART CROP:** Automatically detect people, pets, and objects to crop them from the background.
+* **EDGE DETECTION:** The detection engine analyzes images to find content edges and trim background padding automatically.
+* **BATCH PROCESSING:** Select an entire folder and process thousands of screenshots in one session.
+* **JUMP NAVIGATION:** Instantly navigate large lists by typing the image number to jump directly to that photo.
+* **PRECISION CONTROL:** Apply settings globally to a batch, or adjust crop borders for individual images.
+* **FORMAT PRESERVATION:** Cropped images are saved in their original format by default.
+* **OFFLINE SUPPORT:** Core cropping features function fully without an internet connection.
+* **ACCESSIBILITY:** Full support for screen readers and accessibility tools.
+
+## PRO FEATURES (Lifetime Upgrade - No Subscriptions)
+PicTrimmer is free to use and supported by ads. The Pro features can be unlocked in two ways:
+
+Watch a Reward Ad: Unlocks Pro features for a 30-minute session (Ads remain active).
+Buy Pro (One-Time Purchase): Permanently unlocks all features and removes all advertisements.
+
+Pro Features:
+* **AI SMART CROP:** Unlimited use of the AI engine.
+* **OUTPUT FORMAT CONTROL:** Convert and save processed images as JPEG, PNG, or WEBP.
+* **ADVANCED RENAMING:** Organize files with custom filename prefixes and suffixes.
+* **AD-FREE EXPERIENCE:** Removes all advertisements (Purchase Only). 
 
 ## User-Friendly Ads & Premium Features
-* PicTrimmer is free to use and designed to be non-intrusive. The ad experience is simple:
+* PicTrimmer is designed to be non-intrusive. The ad experience is simple:
 A single, optional rewarded ad unlocks the two premium settings for 30 minutes.
 * A small native ad may appear on the processing screen. (If the native ad fails to load, a single full-screen interstitial ad will be shown instead after processing is complete.)
 
