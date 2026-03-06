@@ -64,5 +64,9 @@ If a parent or guardian believes that data has been collected for personalized a
 ### 10. Changes to This Privacy Policy
 I may update this Privacy Policy from time to time. You are advised to review this page periodically for any changes.
 
-### 11. Contact Me
+### 11. Open Source Credits
+The AI Smart Crop feature utilizes open-source software components.
+* InSPyReNet Model: Copyright (c) 2021 Taehun Kim. Licensed under the MIT License.
+
+### 12. Contact Me
 If you have any questions about this Privacy Policy or wish to report a bug, please do not hesitate to contact me at sphereforge.apps@gmail.com or create an issue on the official GitHub repository: https://github.com/SphereForge/PicTrimmer/issues
