@@ -1,5 +1,5 @@
 # Privacy Policy for PicTrimmer
-**Last Updated: 28 February 2026**
+**Last Updated: 8 march 2026**
 
 Thank you for using PicTrimmer. Your privacy is important. This privacy policy explains how information is handled in my application, PicTrimmer.
 
