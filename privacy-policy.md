@@ -1,5 +1,5 @@
 # Privacy Policy for PicTrimmer
-**Last Updated: 8 march 2026**
+**Last Updated: 26 may 2026**
 
 Thank you for using PicTrimmer. Your privacy is important. This privacy policy explains how information is handled in my application, PicTrimmer.
 
@@ -37,7 +37,7 @@ The information collected by the advertising partners is used by them for the fo
 To improve the stability and performance of PicTrimmer, I rely on standard, anonymous diagnostic services.
 
 *   **Google Play:** If the app crashes, your Android operating system may automatically generate a report that is sent to my Google Play Console. This data is purely technical and helps me fix bugs related to the Android OS. This is controlled by a system-wide setting on your device, typically under Settings > Google > Usage & diagnostics.
-*   **Unity:** To provide advertising services, the Unity SDK integrated in this app also collects "Essential Data." This is anonymous diagnostic and technical data required to ensure their services function correctly, to detect errors, and to prevent fraud. I have disabled all non-essential data collection and usage in my Unity project settings.
+*   **Unity:** To provide advertising services, the Unity SDK integrated in this app also collects "Essential Data." This is anonymous diagnostic and technical data required to ensure their services function correctly, to detect errors, and to prevent fraud.
 
 Both of these services collect anonymous data only, such as device model, OS version, and the specific code that caused an error. This data contains no personal information and is used solely for the purpose of identifying and fixing bugs to improve your app experience.
 
