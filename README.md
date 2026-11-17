@@ -1,12 +1,13 @@
-# PicTrimmer for Android
-![PicTrimmer](https://github.com/user-attachments/assets/a9b0b6f6-6445-4c83-8a9e-ce3825047d1f)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f76beeee-15ce-42a2-bf2c-e0c6c8fdbc99" alt="PicTrimmer Logo" width="96" height="96" />
+  <h1>PicTrimmer</h1>
+
+  <a href="https://play.google.com/store/apps/details?id=com.sphereforge.pictrimmer">
+    <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200"/>
+  </a>
+</div>
+
 ---
-
-## Download the Latest Version
-
-**You can download the latest release APK directly from the [GitHub Releases page](https://github.com/SphereForge/PicTrimmer/releases).**
----
-
 
 Thank you for checking out the first official release of PicTrimmer! This app was built to solve a simple problem: manually cropping borders from screenshots and images is slow and tedious. PicTrimmer automates the entire process, allowing you to clean up dozens of photos in a single tap.
 
@@ -44,17 +45,20 @@ Pro Features:
 A single, optional rewarded ad unlocks the two premium settings for 30 minutes.
 * A small native ad may appear on the processing screen. (If the native ad fails to load, a single full-screen interstitial ad will be shown instead after processing is complete.)
 
-## How to Install
+## How to Install (GitHub APK)
 
-1.  Download the `PicTrimmer-free.apk` file from the "Assets" section below.
+1.  Download the `PicTrimmer-free.apk` file from the **[GitHub Releases page](https://github.com/SphereForge/PicTrimmer/releases)**.
 2.  On your Android phone, you may need to **enable "Install from unknown sources"** for your browser or file manager app. Android will guide you through this when you try to open the file.
 3.  Tap on the downloaded file to install it.
 
 ## Requirements:
 * Requires Android 11 (API Level 30) or higher.
 
-## Found a bug?
+---
 
- If you find a bug or have a feature idea, please [open an issue](https://github.com/SphereForge/PicTrimmer/issues) here in the repository.
-
-Thank you for your support!
+## 🔗 Links & Support
+* 🌐 **[Official Website](https://scuttlepod.com/)**
+* 📱 **[Download on Google Play](https://play.google.com/store/apps/details?id=com.sphereforge.pictrimmer)**
+* 📦 **[Download Latest APK (GitHub Releases)](https://github.com/SphereForge/PicTrimmer/releases)**
+* 🐞 **[Report a Bug or Suggest a Feature](https://github.com/SphereForge/PicTrimmer/issues)**
+* 📄 **[Privacy Policy](https://github.com/SphereForge/PicTrimmer/blob/main/privacy-policy.md)**
